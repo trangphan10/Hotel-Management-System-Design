@@ -6,6 +6,7 @@ I. Business Objectives
 - Achievable: Giao diện ứng dụng dễ nhìn, dễ dùng cho người dùng cuối, có đầy đủ các chức năng cần thiết.
 - Relevant: Ứng dụng giúp cho việc quản lý khách sạn dễ dàng hơn, giúp cho tất cả người dùng hệ thống cùng nắm bắt thông tin kịp thời.
 - Time-bound: Vĩnh viễn cho đến khi người dùng cao cấp dừng hoạt động ứng dụng.
+  
 II. Sơ đồ usecase 
 
 https://drive.google.com/file/d/1EpS8sGeLp9SCdYLgVpzGrnkJxhfL8sJV/view?usp=sharing
