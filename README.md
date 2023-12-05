@@ -1,7 +1,9 @@
 Phần mềm quản lý khách sạn 
 
 Họ và tên: Phan Thị Thu Trang 
+
 MSV: 21001593
+
 I. Business Objectives 
 - Specific: Xây dựng 1 phần mềm quản lý khách sạn dạng ứng dụng cho máy tính cá nhân.
 - Measurable: Dựa trên use stories bao gồm các yêu cầu, các quyền khác nhau dành cho thành viên hệ thống.
