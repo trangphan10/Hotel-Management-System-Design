@@ -1,4 +1,5 @@
 Phần mềm quản lý khách sạn 
+
 Họ và tên: Phan Thị Thu Trang 
 MSV: 21001593
 I. Business Objectives 
